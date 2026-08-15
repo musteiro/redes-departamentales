@@ -1,7 +1,6 @@
 [tema1-arquitecturas-redes.md](https://github.com/user-attachments/files/31073721/tema1-arquitecturas-redes.md)
 # Tema 1: Arquitecturas de redes de área local
 
-> Módulo Formativo 1 (MF0220_2) — Unidad Formativa 1 (UF0854)
 > Instalación y configuración de los nodos de una red de área local
 
 ## 1. Clasificación de las redes según el territorio
