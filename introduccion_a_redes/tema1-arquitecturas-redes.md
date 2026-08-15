@@ -1,7 +1,6 @@
-
 # Tema 1: Arquitecturas de redes de área local
 
-> Tipos de instalación y configuración de los nodos de una red de área local
+> Tipos de instalacione y configuración de los nodos de una red de área local
 
 ## 1. Clasificación de las redes según el territorio
 
@@ -131,6 +130,15 @@ Conjunto de cables, equipos y canalizaciones que llevan los servicios (radio/TV,
 
 **Obligatorio desde 1998** en edificios nuevos o rehabilitados integralmente.
 
+### Evolución de la normativa ICT
+
+- **1998** — Real Decreto-ley 1/1998: establece la obligación de dotar a los edificios de una infraestructura común de telecomunicaciones.
+- **2003** — Real Decreto 401/2003: primer reglamento técnico completo (conocido como **ICT-I**), con las especificaciones de canalizaciones, recintos y cableado.
+- **2011** — Real Decreto 346/2011: actualiza y amplía el reglamento anterior (conocido como **ICT-II**), adaptándolo a las nuevas tecnologías de banda ancha y fibra óptica. Se desarrolla mediante la Orden ITC/1644/2011.
+- **2019** — Orden ECE/983/2019: actualiza los requisitos de reacción al fuego de los cables de telecomunicaciones en el interior de los edificios.
+
+La ICT-II (RD 346/2011) es la normativa que sigue vigente en la actualidad.
+
 ### Zonas
 - **Zona exterior**: fuera del edificio, hasta las arquetas
 - **Zona común**: canalización de enlace (inferior = subterránea, superior = tejado/azotea)
@@ -154,3 +162,4 @@ Conjunto de cables, equipos y canalizaciones que llevan los servicios (radio/TV,
 - IP = protocolo enrutado; los de enrutamiento deciden rutas
 - IEEE 802.3 = Ethernet | IEEE 802.11 = WiFi
 - ICT = instalaciones de telecomunicaciones de un edificio (obligatorias desde 1998)
+- Evolución normativa: 1998 (obligación) → 2003 ICT-I (RD 401/2003) → 2011 ICT-II (RD 346/2011, vigente) → 2019 actualización reacción al fuego
