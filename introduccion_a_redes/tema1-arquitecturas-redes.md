@@ -1,10 +1,12 @@
 # Tema 1: Arquitecturas de redes de área local
 
-> Tipos de instalacione y configuración de los nodos de una red de área local
+> Tipos de instalaciones y configuración de los nodos de una red de área local
 
 ## 1. Clasificación de las redes según el territorio
 
-Cuanto mayor es la zona que abarca una red, mayor es el tipo de red:
+Cuanto mayor es la zona que abarca una red, mayor es el tipo de red. Esta clasificación es la primera forma de entender qué tipo de red hay, ya que no es lo mismo conectar dos ordenadores en una misma habitación que conectar servidores situados en distintos países.
+
+En todos los casos, lo que cambia es el alcance físico de la red y, con ello, la tecnología, el cableado y los dispositivos necesarios para que la comunicación sea posible. Cuando una red crece y empieza a interconectarse con otras a través de routers, deja de considerarse una simple LAN y pasa a formar parte de una red de mayor tamaño (MAN o WAN, según la distancia).
 
 | Tipo | Nombre completo | Ámbito |
 |------|------------------|--------|
