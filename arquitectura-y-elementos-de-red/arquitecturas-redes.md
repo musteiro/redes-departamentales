@@ -31,7 +31,7 @@ Una LAN permite compartir recursos (impresoras, archivos, Internet) entre varios
 
 ## 4. Topologías de red
 
-La topología es la forma física y/o lógica en que se conectan los dispositivos.
+La topología es la forma física y lógica en que se conectan los elementos para una comunicación deseada.
 
 ### 4.1. Bus
 Todos los equipos comparten un mismo cable.
